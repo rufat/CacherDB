@@ -1,4 +1,4 @@
-let CacherDB = require('./index.js');
+let CacherDB = require('./../index.js');
 
 let cache = new CacherDB({
     letDuplicate: false,
