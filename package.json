@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "description": "Simple cache database",
   "main": "index.js",
-  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rufatmammadli/CacherDB.git"
+  },
   "keywords": [
-    "cache"
+    "cache",
+    "ram",
+    "simple",
+    "storage"
   ],
   "author": "Rufat Mammadli",
   "license": "ISC",
