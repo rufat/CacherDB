@@ -1,9 +1,13 @@
-# CacherDB
+# CacherDB [![Build Status](https://travis-ci.org/rufatmammadli/CacherDB.svg?branch=master)](https://travis-ci.org/rufatmammadli/CacherDB)
 A simple in-memory cache for Node.js.
 
 ## Info
 This codebase is cloned from Tinycache (https://github.com/andyburke/tinycache).
 Thanks to Andy Burke.
+
+## Installation
+
+    npm install cacherdb --save
 
 ## Usage
 
