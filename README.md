@@ -75,11 +75,13 @@ This is a rough estimate, using the js-sizeof library.
 
 The number of cache hits.
 
+### cache.misses
+
+The number of cache misses.
+
 ### cache.getAll
 
 Whole data from the library (includes cache memory and storage statistics).
-
-### cache.
 
 ## Contributing
  
