@@ -1,6 +1,6 @@
 {
   "name": "cacherdb",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Simple cache database",
   "main": "index.js",
   "repository": {
