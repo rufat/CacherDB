@@ -2,7 +2,7 @@
 A simple in-memory cache for Node.js.
 
 ## Info
-This codebase is cloned from Tinycache (https://github.com/andyburke/tinycache).
+This codebase is cloned from [Tinycache](https://github.com/andyburke/tinycache).
 Thanks to Andy Burke.
 
 ## Installation
