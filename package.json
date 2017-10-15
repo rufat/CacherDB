@@ -1,0 +1,15 @@
+{
+  "name": "cacherdb",
+  "version": "1.0.0",
+  "description": "Simple cache database",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "cache"
+  ],
+  "author": "Rufat Mammadli",
+  "license": "ISC",
+  "dependencies": {
+    "js-sizeof": "0.0.1"
+  }
+}
