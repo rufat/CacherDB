@@ -1,4 +1,4 @@
-# CacherDB [![Build Status](https://travis-ci.org/rufatmammadli/CacherDB.svg?branch=master)](https://travis-ci.org/rufatmammadli/CacherDB) [![npm version](https://badge.fury.io/js/cacherdb.svg)](https://badge.fury.io/js/cacherdb)
+# CacherDB [![npm version](https://badge.fury.io/js/cacherdb.svg)](https://badge.fury.io/js/cacherdb)
 A simple in-memory cache for Node.js.
 
 ## Info
